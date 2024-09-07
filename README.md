@@ -23,3 +23,16 @@ WebKnoGraph is designed for tech-savvy marketers and marketing engineers with a 
 These individuals are skilled in interpreting and utilizing data, as well as working with technical tools to optimize internal linking structures, improve SEO performance, and enhance overall website navigation. Whether directly coding or collaborating with developers, they are adept at leveraging data and technology to streamline marketing operations, increase customer engagement, and drive business growth.
 
 If you're a data-driven marketer comfortable with using cutting-edge tools to push the boundaries of SEO, WebKnoGraph is built for you.
+
+## Getting Started
+
+To explore and utilize WebKnoGraph, follow the instructions below to get started with the code, data, and documentation provided in the repository:
+
+- **Code**: The core code for this project is located in the `notebooks` folder. These Jupyter notebooks contain the implementation of key components such as vector embeddings, graph-based link prediction algorithms, and data processing techniques.
+  
+- **Data**: The data used for analysis and testing is stored in the `data` folder. This includes all the datasets necessary to replicate the experiments and results outlined in the project.
+
+- **Technical Report**: For a comprehensive understanding of the project, including the methodology, algorithms, and results, refer to the detailed technical report provided in the `Technical_Report_Emilija_Gjorgjevska.pdf` file. This document gives an in-depth coverage of the concepts and the execution of the solution.
+
+By following these resources, you will gain full access to the materials and insights needed to experiment with and extend WebKnoGraph.
+
