@@ -389,10 +389,26 @@ This license allows open use, adaptation, and distribution. You can integrate th
 Use the code. Improve the methods. Share what you learn.
 
 ---
-# 🖩 Internal Linking Calculator
+
+## 🖩 Internal Linking Calculator
 
 This interactive calculator estimates the potential **cost savings and ROI** from optimizing internal links, based on your keyword data, CPC benchmarks, and click-through assumptions.
 
 [![Try the Internal Linking SEO ROI Calculator](https://raw.githubusercontent.com/martech-engineer/WebKnoGraph/refs/heads/main/assets/internal-linking-seo-roi-cropped.png)](https://huggingface.co/spaces/Em4e/internal-linking-seo-roi-calculator)
 
 ---
+
+## Citation
+
+If you use WebKnoGraph in your research, please cite our arXiv preprint:
+
+```bibtex
+@misc{gjorgjevska2026webknograph,
+  title         = {WebKnoGraph: GNN-Powered Internal Linking},
+  author        = {Gjorgjevska, Emilija and Mirceva, Georgina and Mirchev, Miroslav},
+  year          = {2026},
+  eprint        = {2606.06106},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.IR},
+  url           = {https://arxiv.org/abs/2606.06106}
+}
