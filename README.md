@@ -400,7 +400,7 @@ This interactive calculator estimates the potential **cost savings and ROI** fro
 
 ## Citation
 
-If you use WebKnoGraph in your research, please cite our arXiv preprint:
+If you use WebKnoGraph in your research, please cite our arXiv preprint. The work is currently available as a preprint while we await peer review.
 
 ```bibtex
 @misc{gjorgjevska2026webknograph,
