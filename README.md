@@ -398,6 +398,21 @@ This interactive calculator estimates the potential **cost savings and ROI** fro
 
 ---
 
+## Acknowledgments
+
+I would like to thank the following SEO professionals, communities, and teams whose work, feedback, and perspective helped inform the development of **WebKnoGraph**, a research project on graph-based internal linking and SEO.
+
+- [Suresh Kumar Gondi](https://sureshkumarg.com/) is a technical and semantic SEO consultant whose work spans schema markup, technical SEO, SEO audits, website migration, and data-informed SEO strategy.
+- [Simona Magnani](https://www.linkedin.com/in/simona-magnani-79308851/) works at the intersection of SEO, content quality, indexability, analytics, and conversion, with a practical focus on how content becomes discoverable and useful.
+- [Francisco Nardi](https://www.linkedin.com/in/francisco-nardi-212b338b/) is a Senior Technical SEO with a strong interest in Python, R, statistics, and data-driven SEO workflows.
+- [Sara Moccand Sayegh](https://moccandsayeghsara.ch/) is an SEO Team Lead at BlueGlass, co-host of SEOnerdSwitzerland, and speaker, with expertise across technical SEO, international SEO, and digital branding.
+- [Thiago Pojda](https://www.seo-wiesn.de/speakers/thiago-pojda/) is an SEO Director and technical SEO speaker whose work connects search strategy, technical implementation, and practical SEO problem solving.
+- [SEO Wiesn](https://www.seo-wiesn.de/) provided an important SEO community setting for presenting **WebKnoGraph: Graph-Powered Internal Linking for SEO Pros** and discussing the project with experienced practitioners.
+- [IT.mk](https://it.mk/intervju-so-emilija-gorgevska-od-webknograph-timot-so-ai-mozheme-da-ja-reshime-misterijata-na-seo/) helped introduce WebKnoGraph to a broader technology audience through an interview on how AI can support more transparent and evidence-based SEO workflows.
+- The team at [WNGMN](https://wngmn.com/en/) contributed through a custom session and dedicated input, bringing practical SEO and accessibility expertise into the discussion around WebKnoGraph.
+
+Their SEO expertise, community work, and practitioner feedback are closely aligned with the broader motivation behind WebKnoGraph: making internal linking more transparent, evidence-based, and technically grounded.
+
 ## Citation
 
 If you use WebKnoGraph in your research, please cite our arXiv preprint. The work is currently available as a preprint while we await peer review.
