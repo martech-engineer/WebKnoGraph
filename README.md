@@ -23,6 +23,15 @@ We're enabling **the first publicly available and transparent research for acade
 </h3>
 
 ---
+# 📣 Press & Talks
+
+WebKnoGraph has been featured in industry interviews and community events, helping bring transparent, graph-based internal linking research to a wider SEO and AI search audience.
+
+- **[SEO Confidential: intervista esclusiva a Emilia Gjorgjevska (Roberto Serra, July 2026)](https://www.roberto-serra.com/news/intervista-a-emilia-gjorgjevska-geo-luglio-2026/)** — An in-depth Italian interview covering how WebKnoGraph works as a "simulation lab" for internal linking, why link interventions should be evaluated on authority, stability, and semantic coherence before implementation, and how graph-based site architecture connects to GEO, entity recognition, and Knowledge Graph strategy in the era of AI search.
+- **[Интервју со Емилија Ѓорѓевска од WebKnoGraph: Со AI можеме да ја решиме мистеријата на SEO (IT.mk)](https://it.mk/intervju-so-emilija-gorgevska-od-webknograph-timot-so-ai-mozheme-da-ja-reshime-misterijata-na-seo/)** — A Macedonian-language interview introducing WebKnoGraph to a broader technology audience and discussing how AI can support more transparent, evidence-based SEO workflows.
+- **[SIXT SEO Wiesn 2025 — WebKnoGraph: Graph-Powered Internal Linking for SEO Pros](https://www.seo-wiesn.de/agenda-2025/)** — A featured talk at the SIXT SEO Wiesn community event in Munich (September 24, 2025), presenting the framework to experienced SEO practitioners and gathering hands-on feedback from the community.
+---
+
 # 📂 Project Structure
 
 The project is organized into a modular structure to promote maintainability, reusability, and clear separation of concerns. This is the current folder layout but can change over time:
