@@ -373,13 +373,6 @@ This output confirms that all tests in the tests/backend/services/ directory wer
 - If retraining, ensure old output artifacts are cleared or overwritten.
 
 ---
-# 🗺️ Product Roadmap
-
-This roadmap outlines the planned feature development and research milestones for WebKnoGraph across upcoming quarters. It is organized around key strategic themes: algorithmic enhancements, deployment, testing, user interface customization, and research paper work. Each milestone reflects a step toward building a robust, AI-driven system for optimizing internal linking at scale.
-
-![Product Roadmap](https://github.com/martech-engineer/WebKnoGraph/blob/main/assets/product_roadmap.png)
-
----
 # 🤝 Contributing
 
 WebKnoGraph invites contributions from developers, researchers, marketers, and anyone driven by curiosity and purpose. This project evolves through collaboration.
