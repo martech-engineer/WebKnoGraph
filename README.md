@@ -8,8 +8,6 @@ We're enabling **the first publicly available and transparent research for acade
 
 **Tutorials** available at [WebKnoGraph YouTube Tutorials](https://www.youtube.com/playlist?list=PLP-u_t7VeFyuBStsfz0otMxFsX9kwJ3us).
 
-**Note:** We’ve implemented clearer separation between frontend, backend, testing, and data logic, and are now conducting **rigorous stress tests** with the SEO community.
-
 ---
 <h1 align="center">
     Quick Tour
@@ -398,14 +396,6 @@ WebKnoGraph is released under the **Apache License 2.0**.
 This license allows open use, adaptation, and distribution. You can integrate the project into your own workflows, extend its functionality, or build on top of it. The license ensures the project remains accessible and reusable for individuals, teams, and institutions working at the intersection of SEO, AI, and web infrastructure.
 
 Use the code. Improve the methods. Share what you learn.
-
----
-
-## 🖩 Internal Linking Calculator
-
-This interactive calculator estimates the potential **cost savings and ROI** from optimizing internal links, based on your keyword data, CPC benchmarks, and click-through assumptions.
-
-[![Try the Internal Linking SEO ROI Calculator](https://raw.githubusercontent.com/martech-engineer/WebKnoGraph/refs/heads/main/assets/internal-linking-seo-roi-cropped.png)](https://huggingface.co/spaces/Em4e/internal-linking-seo-roi-calculator)
 
 ---
 
