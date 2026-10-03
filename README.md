@@ -6,6 +6,8 @@ Revolutionizing website internal linking by leveraging cutting-edge data process
 
 We're enabling **the first publicly available and transparent research for academic and industry purposes in the field of end-to-end SEO and technical marketing on a global level**. This initiative opens the door to innovation and collaboration, setting a new standard for how large-scale websites can manage and improve their internal linking strategies using AI-powered, reproducible methods. **A scientific paper is in progress and will follow.**
 
+**Tutorials** available at ![WebKnoGraph YouTube Tutorials link](https://www.youtube.com/playlist?list=PLP-u_t7VeFyuBStsfz0otMxFsX9kwJ3us).
+
 **Note:** We’ve implemented clearer separation between frontend, backend, testing, and data logic, and are now conducting **rigorous stress tests** with the SEO community.
 
 ---
