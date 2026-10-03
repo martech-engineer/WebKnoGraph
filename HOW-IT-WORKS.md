@@ -190,10 +190,4 @@ This is how we get to the end results shown in the [arXiv paper](https://arxiv.o
 -   **Sentence Transformers (Hugging Face):** Text embeddings.
 -   **PyTorch & PyTorch Geometric (PyG):** GraphSAGE model for link prediction.
 -   **NetworkX:** PageRank and HITS analysis on the link graph.
--   **NetworKit:** Graph statistics in the `results_2026/` deltas notebooks.
-
-## 7. Starting a Fresh Crawl
-
-To begin analysis for a new website or to restart, empty the `data/` folder. This ensures no residual data from previous runs interferes with the new session. Then repeat the workflow from step 4.1.
-
-For setup details and troubleshooting, refer to the main `README.md`. For the methodology and results, refer to the [arXiv paper](https://arxiv.org/abs/2606.06106).
+-   **NetworKit:** Graph statistics in the `results_2026/` deltas notebooks
