@@ -2,11 +2,15 @@
 
 <div align="center" style="color:gold;"><strong>Don't forget to give a ⭐ if you found this helpful.</strong></div><br>
 
-Revolutionizing website internal linking by leveraging cutting-edge data processing techniques, vector embeddings, and graph-based link prediction algorithms. By combining these advanced technologies and methodologies, the project aims to create an intelligent solution that optimizes internal link structures, enhancing both SEO performance and user navigation.
+WebKnoGraph is an open-source framework for **AI-assisted internal-link analysis and pre-deployment evaluation**, combining website crawling, vector embeddings, graph-based link prediction, and intervention analysis in a reproducible workflow. It is designed for both academic research and practical SEO experimentation, with the goal of making internal-link optimization more transparent, measurable, and technically grounded.
 
-We're enabling **the first publicly available and transparent research for academic and industry purposes in the field of end-to-end SEO and technical marketing on a global level**. This initiative opens the door to innovation and collaboration, setting a new standard for how large-scale websites can manage and improve their internal linking strategies using AI-powered, reproducible methods. **A scientific paper is in progress and will follow.**
+## Novelty and Intended Use
 
-**Tutorials** available at [WebKnoGraph YouTube Tutorials](https://www.youtube.com/playlist?list=PLP-u_t7VeFyuBStsfz0otMxFsX9kwJ3us).
+WebKnoGraph is designed as a **controlled pre-deployment evaluation framework for internal-link interventions**, turning internal linking from a largely implementation-driven optimization task into a **reproducible experimental setting**. By combining learned link recommendations with graph-based intervention analysis, it enables candidate strategies to be compared and their structural and semantic trade-offs quantified before changes reach a live website. This supports an evidence-informed estimate of which interventions are most promising before involving engineering, UX, product, content, and SEO teams in costly planning, implementation, and testing.
+
+**Tutorials:** [WebKnoGraph YouTube Tutorials](https://www.youtube.com/playlist?list=PLP-u_t7VeFyuBStsfz0otMxFsX9kwJ3us)
+
+**Scientific paper:** [WebKnoGraph on arXiv](https://arxiv.org/abs/2606.06106)
 
 ---
 <h1 align="center">
@@ -23,6 +27,7 @@ We're enabling **the first publicly available and transparent research for acade
 </h3>
 
 ---
+
 # 📣 Press & Talks
 
 WebKnoGraph has been featured in industry interviews and community events, helping bring transparent, graph-based internal linking research to a wider SEO and AI search audience.
